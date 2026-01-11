@@ -1,0 +1,6 @@
+# Ignorer les fichiers temporaires Python
+__pycache__/
+*.pyc
+
+# Ignorer les données systèmes
+.DS_Store
